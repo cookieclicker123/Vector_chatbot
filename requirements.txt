@@ -1,0 +1,8 @@
+langchain
+openai
+streamlit
+langchain-community
+docarray
+PyMuPDF>=1.18.5
+langchain-openai
+pypdf
